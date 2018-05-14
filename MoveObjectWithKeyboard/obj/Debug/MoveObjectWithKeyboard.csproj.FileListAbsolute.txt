@@ -1,6 +1,0 @@
-Z:\Projects\Visual Studio\MoveObjectWithKeyboard\MoveObjectWithKeyboard\bin\Debug\MoveObjectWithKeyboard.exe.config
-Z:\Projects\Visual Studio\MoveObjectWithKeyboard\MoveObjectWithKeyboard\bin\Debug\MoveObjectWithKeyboard.exe
-Z:\Projects\Visual Studio\MoveObjectWithKeyboard\MoveObjectWithKeyboard\bin\Debug\MoveObjectWithKeyboard.pdb
-Z:\Projects\Visual Studio\MoveObjectWithKeyboard\MoveObjectWithKeyboard\obj\Debug\MoveObjectWithKeyboard.exe
-Z:\Projects\Visual Studio\MoveObjectWithKeyboard\MoveObjectWithKeyboard\obj\Debug\MoveObjectWithKeyboard.pdb
-Z:\Projects\Visual Studio\MoveObjectWithKeyboard\MoveObjectWithKeyboard\obj\Debug\MoveObjectWithKeyboard.csprojResolveAssemblyReference.cache
